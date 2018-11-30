@@ -24,5 +24,6 @@
     {
       "plan": "heroku-postgresql:hobby-dev"
     }
-  ]
+  ],
+  "archive_url": ""
 }
